@@ -1,10 +1,10 @@
-# 🌍 Country's Life Expectancy Data (2016–2024)
+# Country's Life Expectancy Data (2016–2024)
 
 This repository contains an Exploratory Data Analysis (EDA) project exploring the relationship between Life Expectancy, GDP, and other socioeconomic factors of countries around the world from 2016 to 2024.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 The main notebook performs:
 - Data loading and cleaning  
 - Handling missing or duplicated values  
@@ -16,7 +16,7 @@ The main notebook performs:
 
 ---
 
-## 🧠 Dataset
+## Dataset
 **Source:** [Kaggle – Country's Life Expectancy Data (2016–2024)](https://www.kaggle.com/datasets/sudhakumari1/countrys-life-expectancy-data2016-2024)
 
 **File:** `Country's_life_expectancy_data(2016_2024).csv`  
@@ -31,7 +31,7 @@ Contains indicators such as:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ### Run in Google Colab
 Click the badge below to open and run directly in Colab:
