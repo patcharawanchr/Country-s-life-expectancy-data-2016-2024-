@@ -2,7 +2,6 @@
 
 This repository contains an Exploratory Data Analysis (EDA) project exploring the relationship between Life Expectancy, GDP, and other socioeconomic factors of countries around the world from 2016 to 2024.
 
----
 
 ## Project Overview
 The main notebook performs:
@@ -14,7 +13,6 @@ The main notebook performs:
   - GDP vs Life Expectancy scatter plots  
   - Correlation heatmap of numeric variables  
 
----
 
 ## Dataset
 **Source:** [Kaggle – Country's Life Expectancy Data (2016–2024)](https://www.kaggle.com/datasets/sudhakumari1/countrys-life-expectancy-data2016-2024)
@@ -29,7 +27,6 @@ Contains indicators such as:
 - `Status` (Developed / Developing)
 - `Schooling`, `Income Composition`, etc.
 
----
 
 ## How to Run
 
